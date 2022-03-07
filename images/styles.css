@@ -1,0 +1,21 @@
+body {
+    background:lightslategray;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.assignment {
+    display:flex;
+    padding: 10px;
+    background:lightskyblue;
+    margin: 10x;
+}
+
+.assingment img { 
+    width: 200px;
+    padding: 10px;
+}
+
+h1 {
+    color:darkblue;
+    text-align: center;
+}
